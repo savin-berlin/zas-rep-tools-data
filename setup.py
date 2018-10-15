@@ -1,7 +1,7 @@
 from setuptools import setup,find_packages
 
-setup(name='zas-rep-tools_data',
-      version='0.1',
+setup(name='zas-rep-tools-data',
+      version='0.3',
       description='This is the data-set for "zas-rep-tools" package.',
       url='https://github.com/savin-berlin/zas-rep-tools-data',
       git_url='https://github.com/savin-berlin/zas-rep-tools-data.git',
