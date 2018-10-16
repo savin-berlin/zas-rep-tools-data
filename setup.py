@@ -10,11 +10,11 @@ setup(name='zas-rep-tools-data',
       license='MIT',
       #packages=find_packages('zas_rep_tools/'),
       packages=['zas_rep_tools_data'],
-      install_requires=[],
+      #install_requires=[],
       include_package_data=True,    # include everything in source control
       zip_safe=False,
-      test_suite='nose.collector', # test by installationls
-      tests_require=['nose'], #test by installation
+      #test_suite='nose.collector', # test by installationls
+      #tests_require=['nose'], #test by installation
       classifiers=[ 
           'Development Status :: 1 - Planning', 
           'Intended Audience :: Science/Research', 
